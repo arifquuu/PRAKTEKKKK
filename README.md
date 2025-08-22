@@ -1,5 +1,5 @@
 ---
-title: PRAKTEKKKK
+title: praktekoverpower
 emoji: 👀
 colorFrom: blue
 colorTo: green
