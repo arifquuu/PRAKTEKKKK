@@ -20,3 +20,5 @@ jobs:
 
           git remote add hf https://ripqu:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/ripqu/pace
           git push -f hf main
+
+          git push -f hf main
