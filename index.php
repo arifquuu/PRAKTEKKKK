@@ -24,7 +24,6 @@ if ($page === 'home') {
     <p>Ini halaman index sederhana untuk tugas PBO (PHP). Coba buka halaman Home:</p>
     <ul>
       <li><a href="/home.php">/home.php</a></li>
-      <li><a href="/?page=home">/?page=home</a> (routing query)</li>
     </ul>
   </div>
 </body>
