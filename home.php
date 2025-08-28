@@ -10,7 +10,7 @@
 
     <p>Klik dibawah untuk lanjut ke Index yang ada</p>
 
-    <a href="index.php">Go to Index Page</a>
+    <a href="/index.php">Go to Index Page</a>
 
 </body>
 </html>
