@@ -1,6 +1,6 @@
 <?php
 // index.php
-$nama = "Peserta Praktik";
+$nama = "Arifqu";
 $waktu = date("Y-m-d H:i:s");
 ?>
 <!DOCTYPE html>
@@ -16,12 +16,13 @@ $waktu = date("Y-m-d H:i:s");
 </head>
 <body>
     <div class="container">
-        <h1>Selamat Datang di Website PHP!</h1>
+        <h1>Selamat Di Index!</h1>
         <p>Halo <strong><?= htmlspecialchars($nama) ?></strong></p>
         <div class="box">
             <p>Waktu server: <code><?= $waktu ?></code></p>
             <p>Dijalankan di <strong>Docker</strong> di Hugging Face Spaces ✅</p>
+            <a href="home.php">Go to Home Page</a>
         </div>
-    </div>
+    </div>S
 </body>
 </html>
