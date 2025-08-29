@@ -22,9 +22,7 @@ if ($page === 'home') {
   <h1>Halo dari index.php 👋</h1>
   <div class="card">
     <p>Ini halaman index sederhana untuk tugas PBO (PHP). Coba buka halaman Home:</p>
-    <ul>
-      <li><a href="/home.php">/home.php</a></li>
-    </ul>
+      <a href="/home.php">/home.php</a>
   </div>
 </body>
 </html>
